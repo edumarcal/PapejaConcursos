@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_42a947785e7c4747eb68d20fbb98ecb9894d5624/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9d434e15142ba8786fb101e9e82c6b703ed0a455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_076e94f0080adf04e532698bd4b63344e9b7af72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dd8a3ec5286a25b328f953cebd31abcefe6c87d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b544c2ff4a43849c381656af8af2f2471cd3c22e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_1295bf1b5acb9d13bb8b86424e35ec305861e382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8e20a8e7ef00d2c2a46cfa87172822282f909b8">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cde4e8348046eaf58935c3bfe0d842de918ec6cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_36561c39a03f1e27ea2a53f8a171942a996dca4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3c4647a711d92a21d5a2c8666a5ebfe47b126534/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a8b19561496dab5352fd3c83968de34db9601c47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a448dd0bd43ae3ea4c2745e118d6f537aa26829e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f0a714f91093e2800007d42fee6825bd922fee9c">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d4a317f978cd73129d18a8ca56698e7f3464d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b8ebb2b3346790800871cb194331a0451550cbe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_768c04ffce5fde7b0db1f400a5823c7890920b23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_55b8460ce5675f41af5278a7bb72f5bc987f80ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_5fefffd6fe1796fcf0c78a25a65caef56b74538b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2cfb953f3a33113cdc8f6e1fda46e7370665fe5e/classes.dex" />
+    </item>
+
+</items>

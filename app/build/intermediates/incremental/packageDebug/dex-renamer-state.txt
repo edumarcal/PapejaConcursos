@@ -1,0 +1,7 @@
+#Fri Oct 14 18:14:50 BRT 2016
+base.0=/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d4a317f978cd73129d18a8ca56698e7f3464d35
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cde4e8348046eaf58935c3bfe0d842de918ec6cd/classes.dex
+base.1=/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cde4e8348046eaf58935c3bfe0d842de918ec6cd
+file.0=/home/papejajunior/workspace/AndroidStudioProjects/PapejaConcursos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d4a317f978cd73129d18a8ca56698e7f3464d35/classes.dex

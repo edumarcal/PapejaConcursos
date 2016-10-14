@@ -1,0 +1,32 @@
+[
+	{
+		"banca": "QUADRIX",
+		"orgao": "DATAPREV",
+		"cargo": "Analista de Tecnologia da Informação",
+		"nivel": "Superior",
+		"disciplina": "Conhecimentos Específicos",
+		"ano": 2014,
+		"enunciado": "A solução tradicional para armazenar grandes quantidades de dados é uma hierarquia de memória, em cuja base haja fitas magnéticas e discos ópticos. Que tipo de memória é considerado no topo dessa hierarquia, com velocidade de acesso superior à dos demais?",
+		"a" : "Cache",
+		"b" : "Disco magnético",
+		"c" : "CD-Rom",
+		"d" : "Registradores",
+		"e" : "DDR2." ,
+		"resposta" : "d"
+	},
+	{
+		"banca": "QUADRIX",
+		"orgao": "DATAPREV",
+		"cargo": "Analista de Tecnologia da Informação",
+		"nivel": "Superior",
+		"disciplina": "Conhecimentos Específicos",
+		"ano": 2014,
+		"enunciado": "Em uma placa-mãe, é possível conectar diversos periféricos, como por exemplo, periféricos de áudio, vídeo, placas de controle, dispositivos de mídia e outros, conectados em barramentos e slots de expansão específicos. Qual alternativa contém modernos slots de expansão para placas de vídeo?",
+		"a" : "Plug-in-Play",
+		"b" : "PCI-Express",
+		"c" : "LGA",
+		"d" : "VGA",
+		"e" : "RGB",
+		"resposta" : "b"
+	}
+]
